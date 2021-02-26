@@ -1,5 +1,5 @@
-# hello-world
+# Resources
 
-Hello there, 
+This repository contains notes and shortcuts to use when coding.
 
-I'm Michelle and I'm a Biochemistry student.
+
